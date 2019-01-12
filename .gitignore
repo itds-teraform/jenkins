@@ -1,0 +1,12 @@
+*
+!.gitignore
+!/jobs/
+!/jobs/*/
+/jobs/*/*
+!/jobs/*/config.xml
+!/users/
+!/users/*/
+/users/*/*
+!/users/*/config.xml
+!/*.xml
+!/plugins/
