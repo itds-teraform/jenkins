@@ -12,4 +12,6 @@
 !/plugins/
 !/plugins/*/
 !/plugins/*/*
-
+!/userContent/
+!/userContent/*/
+!/userContent/*/*
