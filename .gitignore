@@ -9,4 +9,5 @@
 /users/*/*
 !/users/*/config.xml
 !/*.xml
-!/plugins/
+!/plugins/*
+
